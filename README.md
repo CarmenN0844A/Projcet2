@@ -13,6 +13,8 @@ Basics
 <br>
 Simple programs to get started with C.
 Topics: Data types, Variables, Input/Output, Basic Operators.
+<br>
+<br>
 Intermediate
 <br>
 <br>
@@ -21,6 +23,8 @@ Topics: Loops, Functions, Arrays, Pointers, Strings.
 <br>
 <br>
 Advanced
+<br>
+<br>
 Challenging problems for experienced learners.
 Topics: File Handling, Dynamic Memory Allocation, Data Structures (Linked Lists, Stacks, Queues), Algorithms.
 Projects (Coming Soon)
