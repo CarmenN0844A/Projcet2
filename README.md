@@ -1,5 +1,6 @@
 C Programming: From Basics to Advanced Solutions
 Welcome to the C Programming Solutions repository! 🎉 This repository is designed to guide beginners through a structured journey from basic concepts to advanced problem-solving in C. Whether you're just starting out or looking to sharpen your skills, you'll find valuable resources and exercises here.
+<br>
 📚 Repository Structure
 The repository is organized into different levels of difficulty to ensure a smooth learning curve:
 
